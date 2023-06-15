@@ -1,0 +1,15 @@
+{
+  "name": "typescript_cart",
+  "version": "1.0.0",
+  "description": "Cart TypeScript Porject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason Sinner",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^9.0.2",
+    "uuid": "^9.0.0"
+  }
+}
